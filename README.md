@@ -1,16 +1,38 @@
-# What is this?
+<h1 align="center">🚗 German License Plates for FiveM</h1>
 
-The British Plate script is a free release provided by Hybrid Studios that will convert all AI vehicle plates from an American format to a British one. The resource is easily customisable to modify the letters, numbers and area codes available to AI.
+<p align="center">
+    <img alt="" src="https://img.shields.io/github/stars/Zerofour04/GermanPlates-FiveM.svg?style=for-the-badge">
+    <img alt="" src="https://madewithlove.now.sh/de?heart=true&colorB=%23ec2237&template=for-the-badge">
+    <img alt="" src="https://img.shields.io/github/followers/Zerofour04.svg?style=for-the-badge&label=Follow&maxAge=2592000">
+</p>
 
-Feel free to [join our Discord](https://discord.gg/GXGkZagWQN) so you don't miss out on any future releases!
+## ℹ️ Information
+- Converts default FiveM plates to German format
+- Based on British Plates system by Owen-M
+- Customizable city identifiers and plate formats
+- Includes normal mapping for enhanced visuals
 
-# Installation
+## ⭐ Features
+- **German plate generation system**
+- **Custom plate textures**
+- **Configurable city identifiers**
+- **Normal mapping support**
+- **Automatic plate assignment**
 
-1. Download the Script from the [GitHub](https://github.com/Owen-M/BritishPlates)
-2. Create a new folder for the resource in your server's files.
-3. Place the contents of the GitHub into the folder you just created.
-4. Customise away!
+## 🖼️ Preview
 
-# Feedback
+## 🛠️ Installation
+```
+start GermanPlates
+```
 
-We aim to provide the best possible quality in the resources that we release and appreciate any feedback given by members of the community to assist us in developing our resource further. 
+## ⚙️ Configuration
+- Edit in client.lua:
+    - City identifiers (plateStarts)
+    - Available letters
+    - Available numbers
+    - Texture file paths
+
+## 💌 Credits
+- Original British Plates by Owen-M
+- German conversion by Zerofour04
