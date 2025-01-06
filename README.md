@@ -47,7 +47,7 @@ start GermanPlates
     - Available numbers
     - Texture file paths
       
- https://github.com/Zerofour04/GermanPlates-FiveM/blob/465cb7c8b3ace648df105ac5b2e786a8bf1ec756/client.lua#L1-L9
+https://github.com/Zerofour04/GermanPlates-FiveM/blob/53169668c72ab184c816ebf996e6dc86c9d2818c/client.lua#L1-L9
 
 ## 💌 Credits
 - Original British Plates by Owen-M
